@@ -1,15 +1,5 @@
 {
   "profiles": {
-    "DotNetCore": {
-      "commandName": "Project",
-      "launchBrowser": true,
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "ProxyTo": "http://localhost:50932"
-      },
-      "dotnetRunMessages": true,
-      "applicationUrl": "http://localhost:5136"
-    },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
